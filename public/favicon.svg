@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Rokulex">
+  <rect width="32" height="32" rx="7" fill="#141210"/>
+  <rect x="3.5" y="5.5" width="25" height="3.4" rx="0.4" fill="#f6f0e4"/>
+  <rect x="6.4" y="10.2" width="19.2" height="2.3" fill="#c6a15a"/>
+  <rect x="7.1" y="10.2" width="2.7" height="16.2" fill="#f4efe4"/>
+  <rect x="22.2" y="10.2" width="2.7" height="16.2" fill="#f4efe4"/>
+  <rect x="12.5" y="15.2" width="7" height="7.2" rx="0.5" fill="#d4652f"/>
+  <rect x="12" y="22.8" width="8" height="1.6" fill="#c6a15a"/>
+</svg>
